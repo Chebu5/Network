@@ -4,3 +4,4 @@ results50000
 results200000
 *.keras
 *_metrics.json
+*_metrics_50.json
